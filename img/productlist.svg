@@ -1,0 +1,17 @@
+<svg width="34.833740" height="32.500000" viewBox="0 0 34.8337 32.5" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip5_714">
+			<rect id="Frame 652" rx="8.800000" width="17.600000" height="17.600000" transform="translate(17.033741 0.200000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Xnix/Line/Bag" width="32.667603" height="32.000000" transform="translate(0.000000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="Vector-38" d="M9.33 10.5L23.33 10.5C24.64 10.51 25.68 11.59 25.66 12.9L25.66 23.7C25.7 26.31 23.61 28.46 21 28.5L11.66 28.5C9.05 28.46 6.96 26.31 7 23.7L7 12.9C6.98 11.59 8.02 10.51 9.33 10.5Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+	<path id="Vector-39" d="M21 14.1L21 9.3C21.03 6.68 18.94 4.53 16.33 4.5C13.71 4.53 11.63 6.68 11.66 9.3L11.66 14.1" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+	<rect id="Frame 652" rx="8.800000" width="17.600000" height="17.600000" transform="translate(17.033741 0.200000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip5_714)">
+		<path id="3" d="M28.63 10.62C28.63 12.05 27.37 13.12 25.68 13.12C23.99 13.12 22.78 12.19 22.72 10.81L23.79 10.81C23.85 11.66 24.65 12.18 25.66 12.18C26.79 12.18 27.59 11.55 27.59 10.62C27.59 9.66 26.85 8.99 25.53 8.99L24.83 8.99L24.83 8.05L25.53 8.05C26.56 8.05 27.28 7.45 27.28 6.54C27.28 5.65 26.66 5.07 25.7 5.07C24.79 5.07 23.96 5.58 23.93 6.45L22.9 6.45C22.95 5.08 24.21 4.15 25.72 4.15C27.33 4.15 28.31 5.25 28.31 6.48C28.31 7.47 27.76 8.19 26.87 8.46L26.87 8.53C27.97 8.71 28.63 9.52 28.63 10.62Z" fill="#1A1A1A" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
